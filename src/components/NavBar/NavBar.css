@@ -1,0 +1,10 @@
+.navigationbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
