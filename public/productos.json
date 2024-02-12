@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Procesador",
+         "img": "/assets/img/producto0.png",
+        "precio": 300,
+        "stock": 10,
+        "descripcion": "El procesador clásico diseñado para pensar en tareas cotidianas con fluidez",
+        "categoria": "Procesadores"
+    },
+    {
+        "id": 2,
+        "nombre": "Procesador potente",
+        "img": "/assets/img/producto0.png",
+        "precio": 400,
+        "stock": 10,
+        "descripcion": "Estos procesadores te permiten pensar en varias cosas al mismo tiempo",
+        "categoria": "Procesadores"
+    },
+    {
+        "id": 3,
+        "nombre": "Batería de litio",
+        "img": "/assets/img/producto0.png",
+        "precio": 1000,
+        "stock": 5,
+        "descripcion": "La batería clásica que dura todo el día",
+        "categoria": "Baterías"
+    },
+    {
+        "id": 4,
+        "nombre": "Batería atómica",
+        "img": "/assets/img/producto0.png",
+        "precio": 10000,
+        "stock": 12,
+        "descripcion": "Una batería ligera y duradera aunque algo inestable",
+        "categoria": "Baterías"
+    },
+    {
+        "id": 5,
+        "nombre": "Aceite",
+        "img": "/assets/img/producto0.png",
+        "precio": 200,
+        "stock": 20,
+        "descripcion": "Evita desgaste en tus articulaciones con este aceite de calidad",
+        "categoria": "Baterías"
+    }
+]
