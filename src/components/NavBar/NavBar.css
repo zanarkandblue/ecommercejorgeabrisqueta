@@ -1,10 +1,25 @@
 .navigationbar {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-}
-
-.links {
+    justify-content: space-between;
+    padding: 10px 20px; 
+    border-bottom: 2px solid #454138; 
+  }
+  
+  .navigationbar h1 {
+    margin: 0; 
+  }
+  
+  .links {
     display: flex;
-    justify-content: space-around;
-}
+    gap: 20px; 
+  }
+  
+  .links a {
+    text-decoration: none; 
+  }
+  
+  .links a:hover {
+    text-decoration: underline; 
+  }
+  

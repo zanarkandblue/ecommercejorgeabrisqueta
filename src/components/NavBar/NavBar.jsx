@@ -8,9 +8,10 @@ const NavBar = () => {
 
 
     return (
+        <div>
         <div className="navigationbar">
             <Link to ='/'>
-            <img src="./src/assets/logo.png" alt="" />
+           <h1>ROBOT STORE</h1>
             </Link>
             <div className="links">
                <NavLink to={'/categoria/Procesadores'}>Procesadores</NavLink>
@@ -20,7 +21,8 @@ const NavBar = () => {
             </div>
             <CartWidget/>
         </div>
-
+        <h3>La tienda de suministros de robots más popular de la región.</h3>
+    </div>
     )
 }
 
